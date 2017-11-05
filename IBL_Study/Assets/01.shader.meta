@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 6c036bd3c994d62448108054a35c0c8f
+timeCreated: 1509765240
+licenseType: Free
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _MainTex: {instanceID: 0}
+  - _NormalTex: {instanceID: 0}
+  - _IBLTexCube: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
